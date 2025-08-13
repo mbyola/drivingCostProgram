@@ -1,6 +1,6 @@
 Function Main() returns nothing
-  flort milesPerGallon
+  float milesPerGallon
   float dollarsPerGallon
 
-  milesPerGallon = Git next input
+  milesPerGallon = Get next input
   dollarsPerGallon = Get next input
