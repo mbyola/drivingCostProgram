@@ -1,5 +1,6 @@
 Function drivingCost(float drivenMiles, float milesPerGallon, float dollarsPerGallon) returns float costMiles
    costMiles = drivenMiles * (1.0 / milesPerGallon) * dollarsPerGallon
+//corect
 
 Function Main() returns nothing
   float milesPerGallon
